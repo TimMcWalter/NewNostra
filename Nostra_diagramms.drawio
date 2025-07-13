@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.4">
   <diagram name="Page-1" id="VdG0ydc967w3bB8NOWR4">
-    <mxGraphModel dx="1240" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3565" dy="2958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -390,6 +390,16 @@
         <mxCell id="9ufzv4OOkGtOdLYYlgAh-85" value="forecast" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="640" width="120" height="50" as="geometry" />
         </mxCell>
+        <UserObject label="&lt;img src=&quot;https://img.plantuml.biz/plantuml/png/TP9DQiD038Nt1jz1P9KkJEWsYn9Jnv3I_D2uku1HR3aCJCPXPfBINUxGE_HWEKabEtyET66CtzDyafvdv3nQlz_gCF3AQuBPV9bzn70w_i3Ob96l8p8bLBh-2eCmmCBN5ZuTsJ3OyK5Lg1qQ3w_lawxGIz0ZJCo6dEy1EaYue6HjZOu0e9TPh2fLh4o2Idyt9Ldom4W9_TuI3x9f2jBnGy6qBab3sapLCgPfjyqPiJ8PhZMrbAnRqa1M9cPknQGM4tSxnOk7_PPa3zJXfBMb0fsNc2GWY5ua5XY2gPst21ioPD7pAP75JlWrlEhzq_7tAGn453DBn5I6KVyp-L7c1ap7ScQzLxhCgtRptClYOI3M3Mi9ovkMPjrM5zmq5RtfqUV9vFDMtY8ksZGMpU61O2jvta_CuR6tu8i5WyFpO6UfL0Kt4bty9akkq3MMkUOadC_FaDOwywzDh-ebyxlf1HgnrJGVmjjoFeFg-cj6V9cRonu6Vm00&quot;&gt;" id="9ufzv4OOkGtOdLYYlgAh-91">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="900" y="-280" width="30" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;img src=&quot;https://img.plantuml.biz/plantuml/png/fLVDRXit4BuBq3iGkNYDsa5xDLeZRW83lhH5am2-4IDoTfSLbzoGNCbA4Q0FqRVe8_IMH-cJTBZ_Awtas5uOqch86SvyyyqC_SO7SA4gDFlbr_SVVh_XjvNM_Aq6x_bx0sjy2nwNYpFstzz_FU-FCHzsMfcCFT_6Sg4n3InOvbIM1oQLGn6KDSj5hYGoePpGvAPVArE2WuA96C5D24wjge1tmfhtwZEoxyTxo2aCknAPTI6tcJMWnyi-1sctqV4Kj9zObvX2fSC7V0WtMcMcG1EOe0zqoyNJq6Ai1B663AzOzS1zZbe_1QZbebLdhphrL-pFvO8r2D2dQduozfsmHG56UdP508hGIbrbalFsFKE33W8cu3BV2OC3PIQIqc4qCCY-nAYx8ntwmA4SpeMof2DlmOURt-vQMM4bQkxHRPH0MaqjPPHsTABfIHoDBAqo8N7ugVCYHz0XJpe7lhm0UK6dqnaP4UAPu8yiJF2N480JXmYJ7WzlAoUGbn1oHg7xu3ga2L0CFC1AusJ18KZkODidQWDQaMdaNkHOG2_VEaL2WZP0SfWPlpCXnw04RnDjNU-KuH9sdjNF5IEekwE9CRQWjA2So3s2ZnMZmexaAslr7eVukbG-EMVzSyOyUaz5woy8-GpvHk6MtWKreFXbpGPTk-vmWwRgMA3C7rJkl4HO-pvK3njC8eQ7SQO8eQ9yaCbKPNs86Z9EzKn5tSUfbGy_Kb3NNRHMnrOrR3lS8a0J6y7nbEpvsiee-jGHM3iez2EkDLH1DohEsjUhFUUx4fAIn-CIcPwFHAsx--BEnP7OvoeDN1E24NaFAKOWcyKp9d8gyTZfg7-Kb8IHBIpi9X5MNp1VWXcbauryxQ8PwKbqQWD1KP9gRUj8yjCFvwVqfAgFuX3PeFdgWXdS4X3w_CHv4tYRjfA286hlUcnpQlAkxjo-DJJgVxOCbG5EauAw_1xvczPtVy5s7Ov8bLV53ddFwOqMubVVAIk34tvoehQAtimKuqEsuesxMqSTSg329T79qoGXJsXFV7_zSoFfEAR2nAUk7TyFoOOo-bMX7madzHBBmO8ymbBf8biAQzIuHJXCqQ6XraMNXh0tHgWFYJMl5HDHETeN-8YL6btWAkMKDObo1exz0T2VMcF49i_L8NWTD9sLt3hrsPgzV7RZnD3Wvat7engvOEtkFiaFfOw9trzwuPIfPu5TnLxcdpbcnYOcSwOoAbKestd0K-Bw0A5C2OLIldv7shTnPToiubWPqw8MzfCYeNRUqzlIp7AVAWoFDBTwW7sZ3tM9yH3l3BwaQP8qOos-ZiujWEhpOOOs3GcwCfkIXYlPqkNZnxjt7GNggTiJQJHZ2u_ZraRbqT6cWFBOag3H70Xt24rVeHz13G2tWEJWyxs1dgbOqRnvSRkNN6CSQeYNOUhnvHE95Q-7mtDvUJsvi0mXLpIwvtRFtIYExpuOVYTjJtlvr9F-ZZdOtkyVeztBnLnKKMksR4YllaTvTar3Vox4RrITY_UKQhpcdTQSgx2eMJehAz4UEmVSAUNXs6EQXxEgWRSktjEgUmKw51wDeqPpplWfpQ__n2jAB1z9hVthluJMJEvFMOYJhyNvYEQnW1i-JSVZum0t--i9MP_wXcvdz2_tSl4_&quot;&gt;" id="9ufzv4OOkGtOdLYYlgAh-93">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="1300" y="412" width="30" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
