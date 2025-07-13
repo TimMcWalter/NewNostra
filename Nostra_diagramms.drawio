@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.4">
   <diagram name="Page-1" id="VdG0ydc967w3bB8NOWR4">
-    <mxGraphModel dx="3565" dy="2958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="1612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -395,11 +395,74 @@
             <mxGeometry x="900" y="-280" width="30" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;img src=&quot;https://img.plantuml.biz/plantuml/png/fLVDRXit4BuBq3iGkNYDsa5xDLeZRW83lhH5am2-4IDoTfSLbzoGNCbA4Q0FqRVe8_IMH-cJTBZ_Awtas5uOqch86SvyyyqC_SO7SA4gDFlbr_SVVh_XjvNM_Aq6x_bx0sjy2nwNYpFstzz_FU-FCHzsMfcCFT_6Sg4n3InOvbIM1oQLGn6KDSj5hYGoePpGvAPVArE2WuA96C5D24wjge1tmfhtwZEoxyTxo2aCknAPTI6tcJMWnyi-1sctqV4Kj9zObvX2fSC7V0WtMcMcG1EOe0zqoyNJq6Ai1B663AzOzS1zZbe_1QZbebLdhphrL-pFvO8r2D2dQduozfsmHG56UdP508hGIbrbalFsFKE33W8cu3BV2OC3PIQIqc4qCCY-nAYx8ntwmA4SpeMof2DlmOURt-vQMM4bQkxHRPH0MaqjPPHsTABfIHoDBAqo8N7ugVCYHz0XJpe7lhm0UK6dqnaP4UAPu8yiJF2N480JXmYJ7WzlAoUGbn1oHg7xu3ga2L0CFC1AusJ18KZkODidQWDQaMdaNkHOG2_VEaL2WZP0SfWPlpCXnw04RnDjNU-KuH9sdjNF5IEekwE9CRQWjA2So3s2ZnMZmexaAslr7eVukbG-EMVzSyOyUaz5woy8-GpvHk6MtWKreFXbpGPTk-vmWwRgMA3C7rJkl4HO-pvK3njC8eQ7SQO8eQ9yaCbKPNs86Z9EzKn5tSUfbGy_Kb3NNRHMnrOrR3lS8a0J6y7nbEpvsiee-jGHM3iez2EkDLH1DohEsjUhFUUx4fAIn-CIcPwFHAsx--BEnP7OvoeDN1E24NaFAKOWcyKp9d8gyTZfg7-Kb8IHBIpi9X5MNp1VWXcbauryxQ8PwKbqQWD1KP9gRUj8yjCFvwVqfAgFuX3PeFdgWXdS4X3w_CHv4tYRjfA286hlUcnpQlAkxjo-DJJgVxOCbG5EauAw_1xvczPtVy5s7Ov8bLV53ddFwOqMubVVAIk34tvoehQAtimKuqEsuesxMqSTSg329T79qoGXJsXFV7_zSoFfEAR2nAUk7TyFoOOo-bMX7madzHBBmO8ymbBf8biAQzIuHJXCqQ6XraMNXh0tHgWFYJMl5HDHETeN-8YL6btWAkMKDObo1exz0T2VMcF49i_L8NWTD9sLt3hrsPgzV7RZnD3Wvat7engvOEtkFiaFfOw9trzwuPIfPu5TnLxcdpbcnYOcSwOoAbKestd0K-Bw0A5C2OLIldv7shTnPToiubWPqw8MzfCYeNRUqzlIp7AVAWoFDBTwW7sZ3tM9yH3l3BwaQP8qOos-ZiujWEhpOOOs3GcwCfkIXYlPqkNZnxjt7GNggTiJQJHZ2u_ZraRbqT6cWFBOag3H70Xt24rVeHz13G2tWEJWyxs1dgbOqRnvSRkNN6CSQeYNOUhnvHE95Q-7mtDvUJsvi0mXLpIwvtRFtIYExpuOVYTjJtlvr9F-ZZdOtkyVeztBnLnKKMksR4YllaTvTar3Vox4RrITY_UKQhpcdTQSgx2eMJehAz4UEmVSAUNXs6EQXxEgWRSktjEgUmKw51wDeqPpplWfpQ__n2jAB1z9hVthluJMJEvFMOYJhyNvYEQnW1i-JSVZum0t--i9MP_wXcvdz2_tSl4_&quot;&gt;" id="9ufzv4OOkGtOdLYYlgAh-93">
+        <UserObject label="&#xa;&lt;img style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; src=&quot;https://img.plantuml.biz/plantuml/png/fLVDRXit4BuBq3iGkNYDsa5xDLeZRW83lhH5am2-4IDoTfSLbzoGNCbA4Q0FqRVe8_IMH-cJTBZ_Awtas5uOqch86SvyyyqC_SO7SA4gDFlbr_SVVh_XjvNM_Aq6x_bx0sjy2nwNYpFstzz_FU-FCHzsMfcCFT_6Sg4n3InOvbIM1oQLGn6KDSj5hYGoePpGvAPVArE2WuA96C5D24wjge1tmfhtwZEoxyTxo2aCknAPTI6tcJMWnyi-1sctqV4Kj9zObvX2fSC7V0WtMcMcG1EOe0zqoyNJq6Ai1B663AzOzS1zZbe_1QZbebLdhphrL-pFvO8r2D2dQduozfsmHG56UdP508hGIbrbalFsFKE33W8cu3BV2OC3PIQIqc4qCCY-nAYx8ntwmA4SpeMof2DlmOURt-vQMM4bQkxHRPH0MaqjPPHsTABfIHoDBAqo8N7ugVCYHz0XJpe7lhm0UK6dqnaP4UAPu8yiJF2N480JXmYJ7WzlAoUGbn1oHg7xu3ga2L0CFC1AusJ18KZkODidQWDQaMdaNkHOG2_VEaL2WZP0SfWPlpCXnw04RnDjNU-KuH9sdjNF5IEekwE9CRQWjA2So3s2ZnMZmexaAslr7eVukbG-EMVzSyOyUaz5woy8-GpvHk6MtWKreFXbpGPTk-vmWwRgMA3C7rJkl4HO-pvK3njC8eQ7SQO8eQ9yaCbKPNs86Z9EzKn5tSUfbGy_Kb3NNRHMnrOrR3lS8a0J6y7nbEpvsiee-jGHM3iez2EkDLH1DohEsjUhFUUx4fAIn-CIcPwFHAsx--BEnP7OvoeDN1E24NaFAKOWcyKp9d8gyTZfg7-Kb8IHBIpi9X5MNp1VWXcbauryxQ8PwKbqQWD1KP9gRUj8yjCFvwVqfAgFuX3PeFdgWXdS4X3w_CHv4tYRjfA286hlUcnpQlAkxjo-DJJgVxOCbG5EauAw_1xvczPtVy5s7Ov8bLV53ddFwOqMubVVAIk34tvoehQAtimKuqEsuesxMqSTSg329T79qoGXJsXFV7_zSoFfEAR2nAUk7TyFoOOo-bMX7madzHBBmO8ymbBf8biAQzIuHJXCqQ6XraMNXh0tHgWFYJMl5HDHETeN-8YL6btWAkMKDObo1exz0T2VMcF49i_L8NWTD9sLt3hrsPgzV7RZnD3Wvat7engvOEtkFiaFfOw9trzwuPIfPu5TnLxcdpbcnYOcSwOoAbKestd0K-Bw0A5C2OLIldv7shTnPToiubWPqw8MzfCYeNRUqzlIp7AVAWoFDBTwW7sZ3tM9yH3l3BwaQP8qOos-ZiujWEhpOOOs3GcwCfkIXYlPqkNZnxjt7GNggTiJQJHZ2u_ZraRbqT6cWFBOag3H70Xt24rVeHz13G2tWEJWyxs1dgbOqRnvSRkNN6CSQeYNOUhnvHE95Q-7mtDvUJsvi0mXLpIwvtRFtIYExpuOVYTjJtlvr9F-ZZdOtkyVeztBnLnKKMksR4YllaTvTar3Vox4RrITY_UKQhpcdTQSgx2eMJehAz4UEmVSAUNXs6EQXxEgWRSktjEgUmKw51wDeqPpplWfpQ__n2jAB1z9hVthluJMJEvFMOYJhyNvYEQnW1i-JSVZum0t--i9MP_wXcvdz2_tSl4_&quot;&gt;&#xa;&#xa;" link="&#xa;&lt;img style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; src=&quot;https://img.plantuml.biz/plantuml/png/fLVDRXit4BuBq3iGkNYDsa5xDLeZRW83lhH5am2-4IDoTfSLbzoGNCbA4Q0FqRVe8_IMH-cJTBZ_Awtas5uOqch86SvyyyqC_SO7SA4gDFlbr_SVVh_XjvNM_Aq6x_bx0sjy2nwNYpFstzz_FU-FCHzsMfcCFT_6Sg4n3InOvbIM1oQLGn6KDSj5hYGoePpGvAPVArE2WuA96C5D24wjge1tmfhtwZEoxyTxo2aCknAPTI6tcJMWnyi-1sctqV4Kj9zObvX2fSC7V0WtMcMcG1EOe0zqoyNJq6Ai1B663AzOzS1zZbe_1QZbebLdhphrL-pFvO8r2D2dQduozfsmHG56UdP508hGIbrbalFsFKE33W8cu3BV2OC3PIQIqc4qCCY-nAYx8ntwmA4SpeMof2DlmOURt-vQMM4bQkxHRPH0MaqjPPHsTABfIHoDBAqo8N7ugVCYHz0XJpe7lhm0UK6dqnaP4UAPu8yiJF2N480JXmYJ7WzlAoUGbn1oHg7xu3ga2L0CFC1AusJ18KZkODidQWDQaMdaNkHOG2_VEaL2WZP0SfWPlpCXnw04RnDjNU-KuH9sdjNF5IEekwE9CRQWjA2So3s2ZnMZmexaAslr7eVukbG-EMVzSyOyUaz5woy8-GpvHk6MtWKreFXbpGPTk-vmWwRgMA3C7rJkl4HO-pvK3njC8eQ7SQO8eQ9yaCbKPNs86Z9EzKn5tSUfbGy_Kb3NNRHMnrOrR3lS8a0J6y7nbEpvsiee-jGHM3iez2EkDLH1DohEsjUhFUUx4fAIn-CIcPwFHAsx--BEnP7OvoeDN1E24NaFAKOWcyKp9d8gyTZfg7-Kb8IHBIpi9X5MNp1VWXcbauryxQ8PwKbqQWD1KP9gRUj8yjCFvwVqfAgFuX3PeFdgWXdS4X3w_CHv4tYRjfA286hlUcnpQlAkxjo-DJJgVxOCbG5EauAw_1xvczPtVy5s7Ov8bLV53ddFwOqMubVVAIk34tvoehQAtimKuqEsuesxMqSTSg329T79qoGXJsXFV7_zSoFfEAR2nAUk7TyFoOOo-bMX7madzHBBmO8ymbBf8biAQzIuHJXCqQ6XraMNXh0tHgWFYJMl5HDHETeN-8YL6btWAkMKDObo1exz0T2VMcF49i_L8NWTD9sLt3hrsPgzV7RZnD3Wvat7engvOEtkFiaFfOw9trzwuPIfPu5TnLxcdpbcnYOcSwOoAbKestd0K-Bw0A5C2OLIldv7shTnPToiubWPqw8MzfCYeNRUqzlIp7AVAWoFDBTwW7sZ3tM9yH3l3BwaQP8qOos-ZiujWEhpOOOs3GcwCfkIXYlPqkNZnxjt7GNggTiJQJHZ2u_ZraRbqT6cWFBOag3H70Xt24rVeHz13G2tWEJWyxs1dgbOqRnvSRkNN6CSQeYNOUhnvHE95Q-7mtDvUJsvi0mXLpIwvtRFtIYExpuOVYTjJtlvr9F-ZZdOtkyVeztBnLnKKMksR4YllaTvTar3Vox4RrITY_UKQhpcdTQSgx2eMJehAz4UEmVSAUNXs6EQXxEgWRSktjEgUmKw51wDeqPpplWfpQ__n2jAB1z9hVthluJMJEvFMOYJhyNvYEQnW1i-JSVZum0t--i9MP_wXcvdz2_tSl4_&quot;&gt;&#xa;&#xa;" id="9ufzv4OOkGtOdLYYlgAh-93">
           <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="1300" y="412" width="30" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="9ufzv4OOkGtOdLYYlgAh-95" value="features train (X)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ufzv4OOkGtOdLYYlgAh-96" value="features Test (X)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ufzv4OOkGtOdLYYlgAh-97" value="real features (X)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="-880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ufzv4OOkGtOdLYYlgAh-98" value="Target train (Y)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ufzv4OOkGtOdLYYlgAh-99" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="-810" as="sourcePoint" />
+            <mxPoint x="420" y="-760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ufzv4OOkGtOdLYYlgAh-100" value="Target test (Y)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ufzv4OOkGtOdLYYlgAh-101" value="Target Prediction(Y)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ufzv4OOkGtOdLYYlgAh-102" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="614.76" y="-810" as="sourcePoint" />
+            <mxPoint x="614.76" y="-760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ufzv4OOkGtOdLYYlgAh-103" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="779.76" y="-810" as="sourcePoint" />
+            <mxPoint x="779.76" y="-760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ufzv4OOkGtOdLYYlgAh-104" value="train (fit to training data)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="-810" width="145" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9ufzv4OOkGtOdLYYlgAh-105" value="test( see if train fit works out, whilst giving new X which was not used in train)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="465" y="-790" width="145" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9ufzv4OOkGtOdLYYlgAh-106" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="599.71" y="-680" as="sourcePoint" />
+            <mxPoint x="599.71" y="-630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ufzv4OOkGtOdLYYlgAh-107" value="test score (MAPE, R**2)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="527.5" y="-630" width="145" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9ufzv4OOkGtOdLYYlgAh-108" value="prediction" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="705" y="-630" width="145" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9ufzv4OOkGtOdLYYlgAh-109" value="pred ( give most recent feature data to generate real forecasts)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="-800" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9ufzv4OOkGtOdLYYlgAh-110" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="779.66" y="-680" as="sourcePoint" />
+            <mxPoint x="779.66" y="-630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
